@@ -14,9 +14,14 @@
 
 <br>
 
-- Uma desenvolvedora front-end autodidata
-- Atualmente aprendendo Desenvolvimento Web por conta própria
-- Atualmente estou aberta para um estágio ou uma nova oportunidade de trabalho, este é o  [meu currículo](https://)
+- Tenho 21 anos
+- Sou uma desenvolvedora Front-end autodidata
+- Atualmente aprendendo Desenvolvimento Web
+- Já tenho conhecimento em HTML, CSS e JavaScript.
+- Meus objetivos nesse projeto são: ter uma carreira sólida que me permita trabalhar de qualquer lugar e conseguir ter uma boa condição financeira  e espero que através dessa nova profissão eu consiga almejar sonhos em outras áreas da internet, que já venho estudando a um tempo. Meu objeitvo principal é crescer cada vez mais na minha carreira profissional.
+- Como eu já disse, sou autoditada, não espero me mandarem fazer alguma coisa ou estudar alguma coisa, gosto de sempre estar a frente e quando possuo dúvidas, tento resolve-las eu mesma, claro que se eu não conseguir, peço ajuda de profissionais. 
+- Espero muito conseguir progredir cada vez mais nesse projeto com os ensinamentos do Junio, Vitor e Emily e agradeço pela oportunidade!
+
 
 <br><br>
 
