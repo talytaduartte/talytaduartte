@@ -12,6 +12,9 @@
 
 <picture> <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg5Yjg3Y2Y3ZmQzZWZmMWY2NmQzNDAzOTExYjBmODRhNDc5OGNjOCZjdD1n/xT39CV47COkGPZO3HG/giphy.gif" width=250px></picture>
 
+
+
+
 <br>
 
 - Tenho 21 anos
